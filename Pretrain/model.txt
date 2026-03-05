@@ -1,0 +1,5 @@
+You can download the pretrained BitSemCom models from **Baidu Cloud (Baidu Netdisk)**:
+
+File: BitSemCom Pretrain  
+Link: https://pan.baidu.com/s/1rRuC-7AAAQCqAOIS23HnNg
+Extraction Code: SJTU  
