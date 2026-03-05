@@ -10,6 +10,14 @@ This folder contains the pretrained BitSC models under **error-free channel cond
 | 32  | 1/16     | 32 × 256 = 8192  |
 | 64  | 1/8      | 64 × 256 = 16384 |
 
+### 💾 Pretrained Model Download
+
+You can download the pretrained BitSemCom models from **Baidu Cloud (Baidu Netdisk)**:
+
+**File:** BitSemCom Pretrain  
+**Link:** [https://pan.baidu.com/s/1rRuC-7AAAQCqAOIS23HnNg](https://pan.baidu.com/s/1rRuC-7AAAQCqAOIS23HnNg)  
+**Extraction Code:** SJTU  
+
 ## 🏋️ Training Example (C=32, k=1/16)
 
 ```bash
@@ -44,3 +52,4 @@ Install required Python packages:
 ```bash
 pip install -r requirements.txt
 ```
+
