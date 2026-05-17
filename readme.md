@@ -53,3 +53,8 @@ Install required Python packages:
 pip install -r requirements.txt
 ```
 
+## 🖼️ Visualization Results
+
+We provide visual comparisons to better demonstrate the effectiveness of the proposed BitSemCom framework.
+
+ ![Visual_results](readme/Visual_results.png)
